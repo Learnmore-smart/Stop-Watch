@@ -22,7 +22,7 @@ function timer() {
 
 function startClock() {
     if (isPaused === true) {
-        interval = setInterval(timer, 10);
+        interval = setInterval(timer, 10); // Refresh every 10 milliseconds, so every centisecond
         isPaused = false;
     }
     if (isPaused === false) {
