@@ -10,6 +10,10 @@ I figured out a cool way to make the start button "useless" once the Stop Watch 
 
 I also used a "lighter" effect to make the title look a little nicer.
 
+I used centisecondsElapsed as variable instead of secondsElapsed, so it could display centiseconds on the screen.
+
+
+
 I hope you like it! It could be helpful for studying or just tracking time, maybe even wasting time.
 
 Enjoy~
