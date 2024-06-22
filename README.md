@@ -14,6 +14,6 @@ I used centisecondsElapsed as variable instead of secondsElapsed, so it could di
 
 
 
-I hope you like it! It could be helpful for studying or just tracking time, maybe even wasting time.
+I hope you like it! It could be helpful for studying or just tracking time!
 
 Enjoy~
